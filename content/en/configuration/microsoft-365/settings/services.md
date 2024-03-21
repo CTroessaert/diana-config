@@ -96,7 +96,7 @@ Placeholders such as `<ORGANISATION.GOV.AU>`, `<BLUEPRINT.GOV.AU>` and `<TENANT-
 
 | Item                                                                                   |   Value |
 | -------------------------------------------------------------------------------------- | ------: |
-| Let users open files store in third-party storage services in Microsoft 365 on the web | Enabled |
+| Let users open files store in third-party storage services in Microsoft 365 on the web | Disabled|
 
 ### Microsoft communication to users
 
@@ -108,14 +108,14 @@ Placeholders such as `<ORGANISATION.GOV.AU>`, `<BLUEPRINT.GOV.AU>` and `<TENANT-
 
 | Item                                                  |    Value |
 | ----------------------------------------------------- | -------: |
-| Send a link to the form and collect responses         | Disabled |
-| Share to collaborate on the form layout and structure | Disabled |
-| Share the form as the template that can be duplicated | Disabled |
-| Share form result summary                             | Disabled |
-| Record named by default                               | Disabled |
-| Include Bing search, YouTube videos                   | Disabled |
+| Send a link to the form and collect responses         | Enabled |
+| Share to collaborate on the form layout and structure | Enabled |
+| Share the form as the template that can be duplicated | Enabled |
+| Share form result summary                             | Enabled |
+| Record named by default                               | Enabled |
+| Include Bing search, YouTube videos                   | Enabled |
 | Add internal phishing protection                      |  Enabled |
-| Allow respondents to edit their responses             | Disabled |
+| Allow respondents to edit their responses             | Enabled |
 
 ### Microsoft Graph Data Connect
 
@@ -207,8 +207,8 @@ Placeholders such as `<ORGANISATION.GOV.AU>`, `<BLUEPRINT.GOV.AU>` and `<TENANT-
 
 | Item                                                                                              |    Value |
 | ------------------------------------------------------------------------------------------------- | -------: |
-| Allow Sales Copilot data to be associated with a user's profile information in Microsoft 365 apps | Disabled |
-| Allow users to see Sales Copilot content in Microsoft 365 apps                                    | Disabled |
+| Allow Sales Copilot data to be associated with a user's profile information in Microsoft 365 apps | Enabled  |
+| Allow users to see Sales Copilot content in Microsoft 365 apps                                    | Enabled  |
 
 ### SharePoint
 

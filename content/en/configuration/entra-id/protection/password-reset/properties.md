@@ -22,8 +22,8 @@ Placeholders such as `<ORGANISATION.GOV.AU>`, `<BLUEPRINT.GOV.AU>` and `<TENANT-
 
 | Item                                |           Value |
 | ----------------------------------- | --------------: |
-| Self service password reset enabled |        Selected |
-| Select group                        | rol-<org>-users |
+| Self service password reset enabled |             All |
+| Select group                        |                 |
 
 
 ### Related information

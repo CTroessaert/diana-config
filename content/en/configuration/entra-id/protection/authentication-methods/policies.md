@@ -48,7 +48,7 @@ Placeholders such as `<ORGANISATION.GOV.AU>`, `<BLUEPRINT.GOV.AU>` and `<TENANT-
 | ------------------------- | ----: |
 | Allow self-service set up |   Yes |
 | Enforce attestation       |   Yes |
-| Enforce key restrictions  |   Yes |
+| Enforce key restrictions  |    No |
 | Restrict specific keys    | Allow |
 
 ### Microsoft Authenticator settings

@@ -42,7 +42,7 @@ Placeholders such as `<ORGANISATION.GOV.AU>`, `<BLUEPRINT.GOV.AU>` and `<TENANT-
 
 #### Configuration
 
-* None identified
+* NOT APPLIED TO DIANA
 
 #### References
 

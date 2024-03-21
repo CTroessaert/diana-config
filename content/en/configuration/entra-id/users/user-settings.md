@@ -44,7 +44,7 @@ Placeholders such as `<ORGANISATION.GOV.AU>`, `<BLUEPRINT.GOV.AU>` and `<TENANT-
 
 | Item                                                              | Value |
 | ----------------------------------------------------------------- | ----: |
-| Allow users to connect their work or school account with LinkedIn |    No |
+| Allow users to connect their work or school account with LinkedIn |   Yes |
 
 ### Show keep user signed in
 

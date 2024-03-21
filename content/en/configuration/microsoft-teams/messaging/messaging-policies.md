@@ -30,7 +30,7 @@ Placeholders such as `<ORGANISATION.GOV.AU>`, `<BLUEPRINT.GOV.AU>` and `<TENANT-
 | Chat                                                            |                           On |
 | Chat with groups                                                |                           On |
 | Giphy in conversations                                          |                          Off |
-| Giphy content rating                                            |                       Strict |
+| Giphy content rating                                            |                     Moderate |
 | Memes in conversations                                          |                          Off |
 | Stickers in conversations                                       |                          Off |
 | URL previews                                                    |                          Off |

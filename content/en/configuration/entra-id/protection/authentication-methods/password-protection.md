@@ -24,8 +24,8 @@ Placeholders such as `<ORGANISATION.GOV.AU>`, `<BLUEPRINT.GOV.AU>` and `<TENANT-
 | ------------------------------------------------------------- | ---------------------------------: |
 | Lockout threshold                                             |                                  5 |
 | Lockout duration in seconds                                   |                              18000 |
-| Enforce custom list                                           |                                Yes |
-| Custom banned password list                                   | *as per organisation requirements* |
+| Enforce custom list                                           |                                 No |
+| Custom banned password list                                   |                                    |
 | Enable password protection on Windows Server Active Directory |                                Yes |
 | Mode                                                          |                           Enforced |
 

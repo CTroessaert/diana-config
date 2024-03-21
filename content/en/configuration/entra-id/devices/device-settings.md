@@ -27,7 +27,7 @@ Placeholders such as `<ORGANISATION.GOV.AU>`, `<BLUEPRINT.GOV.AU>` and `<TENANT-
 | Users may join devices to Microsoft Entra                                           |       All |
 | Users may register their devices with Microsoft Entra                               |       All |
 | Require Multifactor Authentication to register or join devices with Microsoft Entra |       Yes |
-| Maximum number of devices per user                                                  | Unlimited |
+| Maximum number of devices per user                                                  |        50 |
 
 ### Local administrator settings
 
